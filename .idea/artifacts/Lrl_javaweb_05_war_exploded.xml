@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Lrl-javaweb-05:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lrl_javaweb_05_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Lrl-javaweb-05/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Lrl-javaweb-05" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.62" />
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:4.0.1" />
+          <element id="library" level="project" name="Maven: javax.servlet:jsp-api:2.0" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.4" />
+          <element id="library" level="project" name="Maven: junit:junit:4.12" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.49" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.7" />
+          <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.3" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
